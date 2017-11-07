@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 stash test
 stash switch test
 classmate dev local_host dev test
+classmateB dev local_host dev test
