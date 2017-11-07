@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 "merge with ff" dev
 stash test
 stash switch test
+classmate dev local_host dev test
