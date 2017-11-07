@@ -1,4 +1,4 @@
-git is a version software.
+git is a version control software.
 Creating a new branch is quick.
 Branch switch test.
 Creating a new branch is quick AND simple.
