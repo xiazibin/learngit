@@ -9,3 +9,4 @@ stash switch test
 classmate dev local_host dev test
 classmateB dev local_host dev test
 classmateB dev local_host dev test again
+ClassmateA dev remote dev test
